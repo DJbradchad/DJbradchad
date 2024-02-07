@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DJbradchad 
 - 👀 I’m interested in Web Dev and Programming
-- 🌱 I’m currently learning The Odin Project
-- 💞️ I’m looking to collaborate on learning scripts
+- 🌱 I’m currently learning Java and PHP programming
+- 💞️ I’m looking to learn multiple languages and skills
 - 📫 How to reach me add my discord bootylooter 
 
 <!---
